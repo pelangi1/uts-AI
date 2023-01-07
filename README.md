@@ -1,6 +1,6 @@
 
 # Tugas
-# Tugas-AI
+# Tugas-UTS-AI
 nama anggota: Rahmat Tahmmid A dan Hariansyah<br>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -73,7 +73,7 @@ Contributors names
 1. Rahmat Tahmid A(2020-097)
 2. Hariansyah (2020-116)
 
-Project Link : https://github.com/pelangi1
+Project Link : https://github.com/pelangi1/uts-AI
 
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
